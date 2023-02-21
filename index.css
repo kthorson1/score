@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    background-color: navy;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.score p {
+    color: #fff;
+    text-align: center;
+    font-size: 35px;
+}
+
+.score {
+    background-color: #000;
+}
+
+h3 {
+    margin-bottom: -10px;
+    color: #fff;
+}
+
+.button {
+    background-color: #fff;
+}
